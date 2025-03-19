@@ -1,6 +1,32 @@
 ### Olá, eu me chamo Alberto de Mattos Netto! 👋
 Engenheiro Eletricista especialista em energias renováveis, apaixonado por tecnologia.
 
+# Sistema Bancário com Interface Gráfica
+
+Este é um sistema bancário desenvolvido em Python que oferece uma interface gráfica moderna e intuitiva para gerenciamento de contas bancárias.
+
+### Funcionalidades:
+- 💳 Criação e gerenciamento de contas bancárias
+- 💰 Operações de depósito e saque
+- 📊 Visualização de saldo e histórico de transações
+- 🎨 Interface gráfica amigável
+
+### Tecnologias Utilizadas:
+- Python
+- Tkinter para interface gráfica
+- SQLite para armazenamento de dados
+
+### Como Executar:
+1. Clone este repositório
+2. Instale as dependências necessárias:
+```bash
+pip install -r requirements.txt
+```
+3. Execute o programa:
+```bash
+python main.py
+```
+
 ###Features:
 - ☀️ Participação em mais de 2,5 GW de usinas sustentáveis de energia
 - 💾 Estudando para integrar cálculos complexos de engenharia em soluções de software.
